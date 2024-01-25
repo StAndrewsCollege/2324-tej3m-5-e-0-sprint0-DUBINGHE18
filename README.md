@@ -22,7 +22,7 @@ For your roboCup sprints you will be setting your own goals that can be complete
 - sheet size 8.5x11 inches (letter)
 
 ![364966ec1b2e5590b39993e405cc52a](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-DUBINGHE18/assets/156111822/035ef028-acfc-46fd-a11e-60572acbca7d)
-
+50cm
 
 ## Process
 
